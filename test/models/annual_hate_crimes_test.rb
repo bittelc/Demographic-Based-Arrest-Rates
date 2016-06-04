@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class AnnualHateCrimeTest < ActiveSupport::TestCase
+class AnnualHateCrimesTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
