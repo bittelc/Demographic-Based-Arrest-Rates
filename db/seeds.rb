@@ -8,3 +8,9 @@
 # Visit.create  country: 'South Korea', visited_at: DateTime.now - 3.days, load_time: 5.0
 AnnualHateCrimes.delete_all
 AnnualHateCrimes.create year: 2014, total_offenses: 6418
+AnnualHateCrimes.create year: 2013, total_offenses: 6933
+AnnualHateCrimes.create year: 2012, total_offenses: 6718
+AnnualHateCrimes.create year: 2011, total_offenses: 7254
+AnnualHateCrimes.create year: 2010, total_offenses: 7699
+AnnualHateCrimes.create year: 2008, total_offenses: 9168
+AnnualHateCrimes.create year: 2008, total_offenses: 9006
