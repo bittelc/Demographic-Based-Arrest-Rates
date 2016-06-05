@@ -1,8 +1,9 @@
 <div class="row">
-
-  <!-- Line Chart - Single Series -->
   <div class="col-xs-6">
-    <h3>Visits By Day</h3>
-    <%= scatter_chart @annual.pluck(:year, :total_offenses) %>
+    <%= line_chart @annual.pluck(:year, :total_offenses), 
+      label: "Hate-Crimes Reported", xtitle: "Year", 
+      ytitle: "Reported Crime", width: "800px", height: "500px",
+      library: {title: 'Hate-Crimes per Year'}
+    %>
   </div>
 </div>
