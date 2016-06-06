@@ -1,11 +1,11 @@
 ### Objective
 
-Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against present-day oppression. Trends in arrest rates across classes can help to inform the public about class-based discrimitation.
-This repository will serve as a centralized map for comparing arrest rates across class-based groups such as socioeconomic, race, religion, and sexual orientation.
+Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against present-day oppression. Trends in arrest rates across various groups can help to inform the public about discrimitation.
+This repository will serve as a centralized map for comparing arrest rates across groups such as socioeconomic, race, religion, and sexual orientation.
 It will not attempt to draw conclusions from the data, and instead will provide it in an organized graphical presentation.
 
 Likewise, longitudinal data about hate crimes can provide relevant information to the same arguments for and against the idea that opression continues in the present.
-Hate crimes are also relevent in underlying trends across classes. For this reason, graphical representations will also be provided for hate crimes.
+Hate crimes are also relevent in underlying trends across disadvantaged groups. For this reason, graphical representations will also be provided for hate crimes.
 
 ### References for Data
 
@@ -37,11 +37,24 @@ This page will likely feature many JavaScript-based graphs throughout, and furth
 
 ##### Miscellaneous
 
-Obviously, there is much work to be done for this site. Most of it remains undocumente or not-yet-thought-of! If you have ideas for directions for this site, don't be shy! Have a mockup for a nice graphic look? Does the page have typos? :)
+Obviously, there is much work to be done for this site. Most of it remains undocumented or not-yet-thought-of! If you have ideas for directions for this site, don't be shy! Have a mockup for a nice graphic look? Does the page have typos? :)
 
 Ideas are best submitted to this repository by means of an edit to this README.md, or if that doesn't fit well, submit an "Issue" to this codebase detailing your thoughts!
 
 All ideas are welcome, and will be responded to immediately!
+
+### Developer
+
+To get project up and running, do the typical repository `git clone` mumbo-jumbo. Then:
+
+```
+$ rake db:migrate
+$ rake db:seed
+$ rails s
+$ curl localhost:3000
+```
+
+This project will abide by typical Rails TDD practices.
 
 ### Fund Us
 
