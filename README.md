@@ -12,7 +12,7 @@ Hate crimes are also relevent in underlying trends across classes. For this reas
 
 ### Contributions
 
-There are two primary areas in which contributions can be made to this project
+There are three primary areas in which contributions can be made to this project
 
 1. Data Gathering
 2. Graphical Prettification
