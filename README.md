@@ -1,7 +1,10 @@
 ### Objective
 
-Trends in arrest rates across classes can help to inform the public. This repository will serve as a centralized map for comparing arrest rates across class-based groups such as socioeconomics, race, religion, and sexual orientation. It will not attempt to draw conclusions from the data, and instead will provide it an organized graphic presentation.
+Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against present-day oppression. Trends in arrest rates across classes can help to inform the public about class-based discrimitation.
+This repository will serve as a centralized map for comparing arrest rates across class-based groups such as socioeconomic, race, religion, and sexual orientation.
+It will not attempt to draw conclusions from the data, and instead will provide it in an organized graphical presentation.
 
+Likewise, longitudinal data about hate crimes can provide relevant information to the same arguments for and against the idea that opression continues in the present.
 Hate crimes are also relevent in underlying trends across classes. For this reason, graphical representations will also be provided for hate crimes.
 
 ### References for Data
