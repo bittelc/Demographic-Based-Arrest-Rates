@@ -7,8 +7,8 @@ Hate crimes are also relevent in underlying trends across classes. For this reas
 ### References for Data
 
 - [FBI Hate Crime statistics](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/topic-pages/victims_final)
-  - [Hate crimes with intention detail] (https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-1)(eg. "Anti-Black")
-  - [Hate crimes with offender detail] (https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-3)(eg. "White")
+  - [Hate crimes with intention detail](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-1) (eg. "Anti-Black")
+  - [Hate crimes with offender detail](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-3) (eg. "White")
 
 ### Contributions
 
