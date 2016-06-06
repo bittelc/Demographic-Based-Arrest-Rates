@@ -16,8 +16,9 @@ There are two primary areas in which contributions can be made to this project
 
 1. Data Gathering
 2. Graphical Prettification
+3. Miscellaneous
 
-###### Data Gathering
+##### Data Gathering
 
 As this is a data-driven site, data gathering is the most critical component for making it relevant. As made obvious from the References detail, high-quality sources have been hard to come by. While it would be an unfortunate conclusion, it may be the case that data must be obtained by HTML and PDF scraping. This has yet to be determined.
 
@@ -26,12 +27,12 @@ To make contributions to the data-gathering aspect of this project:
 - you may either edit this file (README.md) directly, and append any potential references to the "References for Data" section. This requires little-to-no development experience
 - you may submit a pull request, crafting the database schema with relevant columnization or configuring a high-availability cloud-based MySQL database.
 
-###### Graphical Prettification
+##### Graphical Prettification
 
 This page will likely feature many JavaScript-based graphs throughout, and furthermore, are the primary objectives of this repository. A lead developer, preferably with experience creating graphs, is in high demand!
 
 
-###### Miscellaneous
+##### Miscellaneous
 
 Obviously, there is much work to be done for this site. Most of it remains undocumente or not-yet-thought-of! If you have ideas for directions for this site, don't be shy! Have a mockup for a nice graphic look? Does the page have typos? :)
 
