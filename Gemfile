@@ -22,9 +22,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # data visualization
-gem 'chartkick', '~> 2.0.0'
-gem 'groupdate', '~> 3.0.0' 
-gem 'active_median', '~> 0.1.3'
+gem "d3-rails"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
