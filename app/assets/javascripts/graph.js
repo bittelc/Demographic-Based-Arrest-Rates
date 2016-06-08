@@ -1,7 +1,7 @@
 $.ajax({
            type: "GET",
            contentType: "application/json; charset=utf-8",
-           url: 'graph/data',
+           url: 'home/data',
            dataType: 'json',
            success: function (data) {
                draw(data);
