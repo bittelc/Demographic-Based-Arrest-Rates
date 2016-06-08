@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
   root 'home#index'
+
+  get 'home/data'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -14,7 +16,7 @@ Rails.application.routes.draw do
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
-
+  get 'graph/data', defaults: {format: 'json'}
   # Example resource route with options:
   #   resources :products do
   #     member do
