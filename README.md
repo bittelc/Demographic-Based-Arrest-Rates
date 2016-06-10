@@ -12,6 +12,8 @@ Hate crimes are also relevent in underlying trends across disadvantaged groups. 
 - [FBI Hate Crime statistics](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/topic-pages/victims_final)
   - [Hate crimes with intention detail](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-1) (eg. "Anti-Black")
   - [Hate crimes with offender detail](https://www.fbi.gov/about-us/cjis/ucr/hate-crime/2014/tables/table-3) (eg. "White")
+- [Bureau of Justice Statistics](http://www.bjs.gov/developer/ncvs/)
+  - [Trend tables and graphs related to race](http://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm#) (eg. How often a black vs white person is found guilty of offense)
 
 ### Contributions
 
