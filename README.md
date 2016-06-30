@@ -1,6 +1,6 @@
 ### Objective
 
-Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against present-day oppression. Trends in arrest rates across various demographics can help to inform the public about discrimitation.
+Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against the presence of oppression. Trends in arrest rates across various demographics can help to inform the public about discrimitation.
 This repository will serve as a centralized map for comparing arrest rates across different demographis such as socioeconomics, race, religion, and sexual orientation.
 It will not attempt to draw conclusions from the data, and instead will provide it in an organized graphical presentation.
 
@@ -34,7 +34,7 @@ To make contributions to the data-gathering aspect of this project:
 
 ##### Graphical Prettification
 
-This page will likely feature many JavaScript-based graphs throughout, and furthermore, are the primary objectives of this repository. A lead developer, preferably with experience creating graphs, is in high demand!
+This page will feature many JavaScript-based graphs throughout, and furthermore, are the primary objectives of this repository. A lead developer, preferably with experience creating graphs, is in high demand!
 
 
 ##### Miscellaneous
@@ -47,7 +47,11 @@ All ideas are welcome, and will be responded to immediately!
 
 ### Developer
 
-To get project up and running, do the typical repository `git clone` mumbo-jumbo. Then:
+To get project up and running, do the typical repository `git clone` mumbo-jumbo.
+
+This repo will utilize the current DevOps technology of containerization via Docker.
+This technology, however, has not yet been well established for local development, and is primarily geared for delivering the application in a production setting.
+Until the Docker community establishes a standardized process for local development inside a container, we will continue to utilize typical Rails development patterns by launching Puma (`rails s`) locally on the machine:
 
 ```
 $ rake db:migrate
