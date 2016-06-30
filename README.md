@@ -32,6 +32,11 @@ To make contributions to the data-gathering aspect of this project:
 - you may either edit this file (README.md) directly, and append any potential references to the "References for Data" section. This requires little-to-no development experience
 - you may submit a pull request, crafting the database schema with relevant columnization or configuring a high-availability cloud-based MySQL database.
 
+I have received 150 GB of data from the Department of Justice. However, that data is not currently in a database anywhere, because:
+
+1. They were only able to send it in the form of a CD. The process for extracting data from a CD into a db is time consuming.
+2. This project is not yet able to purchase a production database which can hold the data. For help on this issue, read _Fund Us_ section of README
+
 ##### Graphical Prettification
 
 This page will feature many JavaScript-based graphs throughout, and furthermore, are the primary objectives of this repository. A lead developer, preferably with experience creating graphs, is in high demand!
