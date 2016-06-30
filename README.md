@@ -1,7 +1,7 @@
 ### Objective
 
 Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against the presence of oppression. Trends in arrest rates across various demographics can help to inform the public about discrimitation.
-This repository will serve as a centralized map for comparing arrest rates across different demographis such as socioeconomics, race[\*](#Terminology), religion, and sexual orientation.
+This repository will serve as a centralized map for comparing arrest rates across different demographis such as socioeconomics, race[\*](#terminology), religion, and sexual orientation.
 It will not attempt to draw conclusions from the data, and instead will provide it in an organized graphical presentation.
 
 Likewise, longitudinal data about hate crimes can provide relevant information to the same arguments for and against the idea that opression continues in the present.
