@@ -75,4 +75,4 @@ To discuss these possibilities and potential costs, please email me at cole.bitt
 
 ### Terminology
 
-Race: 
+Race: The term "race" is recognized as being a [social construct](http://www.nytimes.com/roomfordebate/2015/06/16/how-fluid-is-racial-identity/race-and-racial-identity-are-social-constructs), and all following use of the word "race" will keep this definition in mind.
