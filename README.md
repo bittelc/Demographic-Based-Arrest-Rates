@@ -1,7 +1,7 @@
 ### Objective
 
 Arrest rates among people of disadvantaged circumstances are a commonly cited statistic in arguments both for and against the presence of oppression. Trends in arrest rates across various demographics can help to inform the public about discrimitation.
-This repository will serve as a centralized map for comparing arrest rates across different demographis such as socioeconomics, race, religion, and sexual orientation.
+This repository will serve as a centralized map for comparing arrest rates across different demographis such as socioeconomics, race[\*](#Terminology), religion, and sexual orientation.
 It will not attempt to draw conclusions from the data, and instead will provide it in an organized graphical presentation.
 
 Likewise, longitudinal data about hate crimes can provide relevant information to the same arguments for and against the idea that opression continues in the present.
@@ -72,3 +72,7 @@ This project will abide by typical Rails TDD practices.
 This site is being developed and hosted from pockets of those who are making contributions. However, more time can be devoted to this project if donations are made. Specifically, we are actively looking for funding for a centralized, production database, such as a MySQL database on AWS. Likewise, once this site is functional and relevant, we will look for domain hosting, though hosters like AWS. A contribution to pay this expense is the best place to start helping this project, if you are an active codebase contributor.
 
 To discuss these possibilities and potential costs, please email me at cole.bittel@gmail.com
+
+### Terminology
+
+Race: 
