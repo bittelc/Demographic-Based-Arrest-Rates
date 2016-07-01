@@ -12,13 +12,14 @@ $.ajax({
        });
 
 function draw(data) {
+    debugger;
     var color = d3.scale.category20b();
     var width = 420,
-        barHeight = 20;
+        barHeight = 10000;
 
     var x = d3.scale.linear()
         .range([0, width])
-        .domain([0, d3.max(data)]);
+        .domain([0, 10000]);
 
     var chart = d3.select("#graph")
         .attr("width", width)
